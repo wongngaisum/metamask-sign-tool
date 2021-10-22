@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/metamask-sign-tool/static/css/main.32e07b03.chunk.css",
+    "main.js": "/metamask-sign-tool/static/js/main.e9644b49.chunk.js",
+    "main.js.map": "/metamask-sign-tool/static/js/main.e9644b49.chunk.js.map",
+    "runtime-main.js": "/metamask-sign-tool/static/js/runtime-main.affc49d6.js",
+    "runtime-main.js.map": "/metamask-sign-tool/static/js/runtime-main.affc49d6.js.map",
+    "static/js/2.51929a1b.chunk.js": "/metamask-sign-tool/static/js/2.51929a1b.chunk.js",
+    "static/js/2.51929a1b.chunk.js.map": "/metamask-sign-tool/static/js/2.51929a1b.chunk.js.map",
+    "static/js/3.487ae566.chunk.js": "/metamask-sign-tool/static/js/3.487ae566.chunk.js",
+    "static/js/3.487ae566.chunk.js.map": "/metamask-sign-tool/static/js/3.487ae566.chunk.js.map",
+    "index.html": "/metamask-sign-tool/index.html",
+    "static/css/main.32e07b03.chunk.css.map": "/metamask-sign-tool/static/css/main.32e07b03.chunk.css.map",
+    "static/js/2.51929a1b.chunk.js.LICENSE.txt": "/metamask-sign-tool/static/js/2.51929a1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.affc49d6.js",
+    "static/js/2.51929a1b.chunk.js",
+    "static/css/main.32e07b03.chunk.css",
+    "static/js/main.e9644b49.chunk.js"
+  ]
+}
